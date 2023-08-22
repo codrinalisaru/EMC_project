@@ -9,4 +9,5 @@ The requirements for the project were:
 - the option to extract through demodulation the informational signal and show it in time and frequency domain.
 
 The modulator signal can be either a sine wave, a square wave, a sawtooth wave or a sum of sine waves. You can choose which type of modulator signal you want from the user interface. 
+
 The user interface parameters are in Romanian, but you can contact me if you need any help with the translation and application use. 
